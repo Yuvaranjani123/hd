@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Enter  name?");
+Console.WriteLine("Enter  full name?");
 Console.WriteLine("Enter your age?");
 var name = Console.ReadLine();
 var currentDate = DateTime.Now;
