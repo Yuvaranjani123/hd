@@ -1,5 +1,5 @@
 Console.WriteLine("Enter  name?");
-Console.WriteLine("Enter age in text?");
+Console.WriteLine("Enter address?");
 var name = Console.ReadLine();
 var currentDate = DateTime.Now;
 Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
